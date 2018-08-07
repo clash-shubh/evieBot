@@ -1,0 +1,2 @@
+# evieBot
+discord bot
