@@ -1,2 +1,2 @@
 # evieBot
-discord bot
+hands on with creating a discord bot
